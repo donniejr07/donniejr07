@@ -29,6 +29,4 @@
 - [Portfolio](https://donniejr107.github.io)
 - [Email](mailto:donnie.codes107@gmail.com)
 
----
-
 *Open to collaboration and new opportunities.*
