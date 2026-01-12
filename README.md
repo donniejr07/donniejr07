@@ -1,4 +1,4 @@
-# Hi there, I'm Doni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi there, I'm Doni Jr <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Fullstack+Developer;Building+Modern+Web+Apps;Clean+Code+Enthusiast)
 
@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 🔭 Currently working on fullstack web applications
+- 🔭 Currently working on fullstack web applications at PT. Wang Sarimulti Utama
 - 🌱 Always learning new technologies
 - 💬 Ask me about React, Next.js, PHP, Laravel
 - 📫 Reach me at **donnie.codes107@gmail.com**
@@ -23,7 +23,7 @@
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,bootstrap,html,css,js)
 
 ### Backend
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel,codeigniter)
 
 ### Database
 ![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)
@@ -38,17 +38,7 @@
 | Project | Description |
 |---------|-------------|
 | [My Portfolio](https://portfolio-donnie.vercel.app) | Personal portfolio built with Next.js and Tailwind CSS |
-| [Project Name](link) | Brief one-line description of what it does |
-| [Project Name](link) | Brief one-line description of what it does |
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donniejr07&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donniejr07&layout=compact&theme=tokyonight&hide_border=true)
-
+| [PotaKu App](https://www.notion.so/Aplikasi-Deteksi-Penyakit-Daun-Kentang-25cf6c923f6881e3b2edf56944b7d463) | My Thesis App for detecting plant diseases |
 ---
 
 *Open to collaboration and new opportunities.*
